@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "StarRail-HuiShi.sln"
+    "dotnet.defaultSolution": "HUISHI.sln"
 }
